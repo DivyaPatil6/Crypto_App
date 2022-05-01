@@ -2,7 +2,7 @@
   "name": "appcrypto",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://Divyapatil6.github.io/Crypto_App"
+  "homepage":"https://Divyapatil6.github.io/Crypto_App",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@reduxjs/toolkit": "^1.8.1",
